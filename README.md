@@ -139,8 +139,6 @@ Then change the file paths to point to your own copies of the public datasets: [
 
 I'm a **Business Analytics & Information Management** student at Purdue University, interested in **data analytics, business intelligence and data science** internships and roles. I like using data to answer business questions, from cleaning raw files to building the charts that tell the story.
 
-📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) · [GitHub](https://github.com/niharika-rai)
-
 ---
 
 <sub>Completed as part of TDM 102 (1 credit hour), The Data Mine, Purdue University, Spring 2024. Datasets were provided through The Data Mine on the Anvil supercomputer.</sub>
